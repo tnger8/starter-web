@@ -14,7 +14,7 @@ exmaple
 it can be deployed anywhere..
 
 ## How to contribute 
-
+pls fork this repo and then issue pull request for review
 
 ## Copyright 
 .
