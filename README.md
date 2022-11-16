@@ -14,3 +14,8 @@ exmaple
 it can be deployed anywhere..
 
 ## How to contribute 
+
+
+## Copyright 
+.
+2014 git training
