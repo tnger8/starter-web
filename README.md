@@ -11,6 +11,6 @@ Sample website with plenty of files for demos
 exmaple
 ## Deployment
 
-it can be deployed anywhere
+it can be deployed anywhere..
 
 ## How to contribute 
