@@ -8,7 +8,7 @@ exmaple to show the diff parts of the git repo and vearious commands using a web
 ## Purpose
 
 Sample website with plenty of files for demos
-
+exmaple
 ## Deployment
 
 ## How to contribute 
