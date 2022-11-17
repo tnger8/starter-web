@@ -5,6 +5,8 @@ this is a simple website to show how to use git and github together
 adding a line for rebase exmaple
 then more changes from myfeature 
 
+We are doing emgerncy fix
+
 ## Introduction
 exmaple to show the diff parts of the git repo and vearious commands using a web projects
 
